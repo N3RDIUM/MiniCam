@@ -1,2 +1,2 @@
 # MiniCam
-Turn your webcam/phone into an astrophotography camera!
+Turn your webcam into an astrophotography camera!
